@@ -1,0 +1,21 @@
+{
+  "name": "zubtsova-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "mkdir build",
+    "say": "echo Hello World!",
+    "delete": "rm -rf build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/zubtsova-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/zubtsova-react/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/zubtsova-react#readme"
+}
